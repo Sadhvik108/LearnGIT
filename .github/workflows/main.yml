@@ -8,4 +8,4 @@ on:
 
 jobs:
   test:
-    runs-on: Windows
+    runs-on: Microsoft Windows
